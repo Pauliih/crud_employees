@@ -1,0 +1,12 @@
+{
+    "development": {
+        "DB_HOST": "localhost",
+        "DB_PORT": 27017,
+        "DB_NAME": "CrudDB"
+    },
+    "production": {
+        "SERVERURL": "https://app.arsys.es/",
+        "PORT": 5000,
+        "DB_NAME": "CrudDB"
+    }
+}
